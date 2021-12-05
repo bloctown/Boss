@@ -1,12 +1,3 @@
-<p align="center">
-  Do you want to build your own Boss with unique features only for your server?
-  <a href="https://mineacademy.org/gh-join">
-    <img src="https://i.imgur.com/HGc2VG3.png" />
-  </a>
-</p>
-
-## Announcement: This plugin is now free of charge, you can download it in the "Releases" tab. See https://mineacademy.org/plugins for a list of all plugins we've open sourced.
-
 # Boss
 Boss is a premium quality plugin for custom monsters on your server.
 
